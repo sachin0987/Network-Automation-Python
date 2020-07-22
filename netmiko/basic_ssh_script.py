@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-#(c) 2017 Todd Riemenschneider
+
 from getpass import getpass
 from netmiko import ConnectionHandler
 
